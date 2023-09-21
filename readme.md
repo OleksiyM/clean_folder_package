@@ -19,7 +19,7 @@ py -m build .
 
 Mac/Linux:
 ```
-pytho3 -m build .
+python3 -m build .
 ```
 
 ## Install whl Package from dist folder:
@@ -43,7 +43,3 @@ example
 ```
 clean-folder D:\Work\test_for_sort 
 ```
-
-
-
-
