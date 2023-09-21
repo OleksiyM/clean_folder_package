@@ -5,12 +5,10 @@
 Windows:
 ```
 pip install build
-
 ```
 Mac/Linux:
 ```
 pip3 install build
-
 ```
 Windows:
 ```
@@ -33,7 +31,6 @@ pip install sort-0.1.3-py3-none-any.whl
 Mac/Linux:
 ```
 pip3 install sort-0.1.3-py3-none-any.whl 
-
 ```
 ### from the Package folder
 
