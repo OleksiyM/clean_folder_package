@@ -22,19 +22,21 @@ Mac/Linux:
 pytho3 -m build .
 ```
 
-## Install whl Package from packages:
+## Install whl Package from dist folder:
 
 Windows:
 ```
-pip install sort-0.1.0-py3-none-any.whl 
+pip install sort-0.1.3-py3-none-any.whl 
 ```
 Mac/Linux:
 ```
-pip3 install sort-0.1.0-py3-none-any.whl 
+pip3 install sort-0.1.3-py3-none-any.whl 
 
 ```
 
-## Run clean-folder command globally in the terminal from the any place 
+## Usage 
+
+### Run clean-folder command globally in the terminal from the any place 
 
 example
 
