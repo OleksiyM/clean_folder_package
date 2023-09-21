@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: sort
+Version: 0.1.1
+Summary: "Clean and sort files in the folder"
+Author: "John Doe"
+Author-email: "jd@example.com"
+License: 'MIT'
