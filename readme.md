@@ -22,7 +22,7 @@ python3 -m build .
 
 ## Install 
 
-### from whl Package (in the dist folder):
+### from `whl` Package (in the dist folder):
 
 Windows:
 ```
@@ -45,7 +45,7 @@ pip3 install -e .
 
 ## Usage 
 
-### Run clean-folder command globally in the terminal from the any place 
+### Run `clean-folder` command globally in the terminal from the any place 
 
 example
 
