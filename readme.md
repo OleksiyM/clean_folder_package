@@ -22,7 +22,9 @@ Mac/Linux:
 python3 -m build .
 ```
 
-## Install whl Package from dist folder:
+## Install 
+
+### from whl Package (in the dist folder):
 
 Windows:
 ```
@@ -32,6 +34,16 @@ Mac/Linux:
 ```
 pip3 install sort-0.1.3-py3-none-any.whl 
 
+```
+### from the Package folder
+
+Windows:
+```
+pip install -e .
+```
+Mac/Linux:
+```
+pip3 install -e .
 ```
 
 ## Usage 
