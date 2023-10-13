@@ -1,6 +1,6 @@
 # Homework 7 - Creating package in the Python
 
-## build
+## How to build package
 
 Windows:
 ```
@@ -20,7 +20,7 @@ Mac/Linux:
 python3 -m build .
 ```
 
-## Install 
+## Install package on local mashine
 
 ### from `whl` Package (in the dist folder):
 
@@ -43,7 +43,7 @@ Mac/Linux:
 pip3 install -e .
 ```
 
-## Usage 
+## Usage of installed pachage
 
 ### Run `clean-folder` command globally in the terminal from the any place 
 
